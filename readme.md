@@ -6,4 +6,4 @@ This is the first forge mod I've made. It's really simple, but those 25 lines to
 
 ![A gif showing off the mod](images/demo.gif)
 
-### 💾 [Download on CurseForge](https://www.curseforge.com/minecraft/mc-mods/nya) 💾
+### 💾 [Download from releases](https://github.com/GunnerBasil/nya/releases/latest) 💾
