@@ -2,7 +2,7 @@
 modLoader="javafml"
 # A version range to match for said mod loader - for regular FML @Mod it will be the forge version
 # Forge for 1.16.5 is version 36
-loaderVersion="[36,)"
+loaderVersion="[31,36]"
 # The license for your mod. This is mandatory and allows for easier comprehension of your redistributive properties.
 # Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
 license="The Unlicense"
@@ -21,13 +21,13 @@ showAsResourcePack=false
 	[[dependencies.nya]]
 		modId="forge"
 		mandatory=true
-		versionRange="[36,)"
+		versionRange="[31,36]"
 		ordering="NONE"
 		side="BOTH"
 
 	[[dependencies.nya]]
 		modId="minecraft"
 		mandatory=true
-		versionRange="[1.16.5,1.17)"
+		versionRange="[1.16,1.16.5)"
 		ordering="NONE"
 		side="BOTH"
