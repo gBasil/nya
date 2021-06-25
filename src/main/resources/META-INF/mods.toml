@@ -5,9 +5,7 @@ modLoader="javafml"
 loaderVersion="[36,)"
 # The license for your mod. This is mandatory and allows for easier comprehension of your redistributive properties.
 # Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
-license="All Rights Reserved"
-# A URL to refer people to when problems occur with this mod
-issueTrackerURL="https://github.com/MinecraftForge/MinecraftForge/issues"
+license="The Unlicense"
 # If the mods defined in this file should show as separate resource packs
 showAsResourcePack=false
 
